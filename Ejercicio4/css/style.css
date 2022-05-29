@@ -1,0 +1,19 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    background-color: wheat;
+}
+
+h2{
+    color: cornflowerblue;
+    font-size: 3rem;
+}
+em{
+    font-style: oblique;
+    color: rgb(146, 224, 238);
+}
+
+strong{
+    color: rgb(54, 138, 106);
+}
