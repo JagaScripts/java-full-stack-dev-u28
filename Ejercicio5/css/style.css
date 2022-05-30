@@ -1,19 +1,18 @@
-body{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
 h1{
-    background-color: wheat;
+    font-weight: bolder;
+    background-color: sandybrown;
 }
 
 h2{
-    color: cornflowerblue;
-    font-size: 3rem;
-}
-em{
-    font-style: oblique;
-    color: rgb(146, 224, 238);
+    color: cadetblue;
+    font-style: italic;
 }
 
-strong{
-    color: rgb(54, 138, 106);
+body{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p span, p strong{
+    color: cadetblue;
 }
