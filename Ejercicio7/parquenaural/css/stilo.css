@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    letter-spacing: 4px;
+}
+
+.verde {
+  color: green;
+}
+
+.marron {
+  color: burlywood;
+}
+
+.verde_clarito {
+  color: rgba(106, 182, 31, 0.925);
+}
+
+h2 {
+  text-decoration: underline;
+
+}
+
+h3{
+    margin: 5px;
+}
+.seccion-main {
+  border: 1px solid #3333;
+  padding: 1rem;
+  
+}
+#contenedor_hijo{
+  display: flex;
+  }
+
+.contendor {
+  background-color: #fff;
+  width: 700px;
+  margin: auto;
+  padding: 1rem;
+  border: 1px solid 333;
+}
+
+
