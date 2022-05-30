@@ -1,0 +1,18 @@
+h1{
+    font-weight: bolder;
+    background-color: sandybrown;
+}
+
+h2{
+    color: cadetblue;
+    font-style: italic;
+}
+
+body{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p span, p strong{
+    color: cadetblue;
+}
